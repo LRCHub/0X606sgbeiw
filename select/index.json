@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DISORDER",
+  "base_artist": "妖精帝國",
+  "createdAt": "2026-01-11T10:53:27.145095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Gates of Disorder",
+      "artist": "GUNSHIP",
+      "has_synced": false,
+      "path": "select/01_The_Gates_of_Disorder_GUNSHIP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Disorder",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/02_Disorder_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Disorder",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/03_Disorder_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Disorder - [The Factory, Manchester Live 11 April 1980]",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/04_Disorder_-_[The_Factory,_Manchester_Live_11_April_1980]_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Disorder",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/05_Disorder_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Disorder (Live at High Hall, Birmingham University, May 2, 1980)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/06_Disorder_(Live_at_High_Hall,_Birmingham_University,_May_2,_1980)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Disorder - [High Wycombe Town Hall Live 13 July 1979]",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/07_Disorder_-_[High_Wycombe_Town_Hall_Live_13_July_1979]_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Disorder (Live at The Factory, Manchester, July 13, 1979)",
+      "artist": "Joy Division",
+      "has_synced": true,
+      "path": "select/08_Disorder_(Live_at_The_Factory,_Manchester,_July_13,_1979)_Joy_Division.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Disorder (Live at Town Hall, High Wycombe, February 20, 1980)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/09_Disorder_(Live_at_Town_Hall,_High_Wycombe,_February_20,_1980)_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disorder - [High Wycombe Town Hall Live 13 July 1979] (Sound Check)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/10_Disorder_-_[High_Wycombe_Town_Hall_Live_13_July_1979]_(Sound_Check)_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Disorder (Sound Check) (Live at Town Hall, High Wycombe, February 20, 1980)",
+      "artist": "Joy Division",
+      "has_synced": false,
+      "path": "select/11_Disorder_(Sound_Check)_(Live_at_Town_Hall,_High_Wycombe,_February_20,_1980)_Joy_Division.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crisis of Disorder - 2018 - Remaster",
+      "artist": "Kreator",
+      "has_synced": true,
+      "path": "select/12_Crisis_of_Disorder_-_2018_-_Remaster_Kreator.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chaos and Disorder",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/13_Chaos_and_Disorder_Prince.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fragile Emotional Disorder",
+      "artist": "Trail Of Tears",
+      "has_synced": false,
+      "path": "select/14_Fragile_Emotional_Disorder_Trail_Of_Tears.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New World Disorder",
+      "artist": "Biohazard feat. Sticky Fingaz",
+      "has_synced": true,
+      "path": "select/15_New_World_Disorder_Biohazard_feat._Sticky_Fingaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "New World Disorder (feat. Sticky Fingaz)",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/16_New_World_Disorder_(feat._Sticky_Fingaz)_Biohazard.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DISORDER",
+      "artist": "妖精帝國",
+      "has_synced": false,
+      "path": "select/pl_01_DISORDER_妖精帝國.txt"
+    }
+  ]
+}
